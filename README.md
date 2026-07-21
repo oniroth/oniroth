@@ -8,8 +8,8 @@
 ---
 
 ## 🧠 About Me
-<div dir="rtl">
-- 🔭 Currently building a powerful **Laravel CMS**
+<div dir="rtl" style="display: flex; flex-direction: column; gap: 12px; align-items: flex-start;">
+  - 🔭 Currently building a powerful **Laravel CMS**
 - ⚙️ متخصص در **Laravel + Livewire + Tailwind**
 - 🧠 علاقه‌مند به **AI Integration**
 - 💻 تجربه با **C++ (low-level thinking mindset)**
