@@ -17,7 +17,7 @@
   padding: 16px;
   border-radius: 12px;
 ">
-  <ul style="margin: 0; padding-right: 20px;">
+  <ul style="margin: 0; padding-right: 20px;" dir="rtl">
     <li>🔭 Currently building a powerful <b>Laravel CMS</b></li>
     <li>⚙️ متخصص در <b>Laravel + Livewire + Tailwind</b></li>
     <li>🧠 علاقه‌مند به <b>AI Integration</b></li>
