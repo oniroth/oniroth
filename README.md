@@ -8,7 +8,15 @@
 ---
 
 ## 🧠 About Me
-<div dir="rtl" style="display: flex; flex-direction: column; gap: 12px; align-items: flex-start;">
+<div dir="rtl" style="
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  background: rgba(20,20,40,0.4);
+  padding: 16px;
+  border-radius: 12px;
+">
   - 🔭 Currently building a powerful **Laravel CMS**
 - ⚙️ متخصص در **Laravel + Livewire + Tailwind**
 - 🧠 علاقه‌مند به **AI Integration**
