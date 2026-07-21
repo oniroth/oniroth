@@ -17,11 +17,13 @@
   padding: 16px;
   border-radius: 12px;
 ">
-  - 🔭 Currently building a powerful **Laravel CMS**
-- ⚙️ متخصص در **Laravel + Livewire + Tailwind**
-- 🧠 علاقه‌مند به **AI Integration**
-- 💻 تجربه با **C++ (low-level thinking mindset)**
-- 🎯 تمرکز روی **Clean Code + Performance + UI**
+  <ul style="margin: 0; padding-right: 20px;">
+    <li>🔭 Currently building a powerful <b>Laravel CMS</b></li>
+    <li>⚙️ متخصص در <b>Laravel + Livewire + Tailwind</b></li>
+    <li>🧠 علاقه‌مند به <b>AI Integration</b></li>
+    <li>💻 تجربه با <b>C++ (low-level thinking mindset)</b></li>
+    <li>🎯 تمرکز روی <b>Clean Code + Performance + UI</b></li>
+  </ul>
 </div>
 ---
 
